@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596379522 source:c:\users\omgar\onedrive\desktop\projects\stone-paper-secissor-game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
